@@ -1,0 +1,6 @@
+# TypeScript compiled directory
+dist/
+
+# IDE - Visual Studio Code
+.vscode/
+*.code-workspace
